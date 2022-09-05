@@ -11,7 +11,7 @@ public class HR1ReverseArray {
         int[] indexes = {1,2,3,4,5};
 
         System.out.println((Arrays.toString(revereseArrayGeneric(strings))));
-        System.out.println(revereseArray(indexes));
+        System.out.println(reverseArray(indexes));
     }
 
 
