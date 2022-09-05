@@ -1,9 +1,7 @@
 package com.hackerrank.easy.algorithms;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
-import java.util.TreeSet;
 
 /** @author Carl Karama */
 
