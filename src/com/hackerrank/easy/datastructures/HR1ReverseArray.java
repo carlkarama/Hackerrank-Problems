@@ -10,13 +10,13 @@ public class HR1ReverseArray {
 
         int[] indexes = {1,2,3,4,5};
 
-        System.out.println((Arrays.toString(revereseArrayGeneric(strings))));
+        System.out.println((Arrays.toString(reverseArrayGeneric(strings))));
         System.out.println(reverseArray(indexes));
     }
 
 
    //Generic implementation
-   public static <T> T[] revereseArrayGeneric(T[] t) {
+   public static <T> T[] reverseArrayGeneric(T[] t) {
 
         int counter = 0, size = t.length;
 
