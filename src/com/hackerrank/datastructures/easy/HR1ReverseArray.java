@@ -1,4 +1,4 @@
-package com.hackerrank.easy.datastructures;
+package com.hackerrank.datastructures.easy;
 
 import java.util.Arrays;
 

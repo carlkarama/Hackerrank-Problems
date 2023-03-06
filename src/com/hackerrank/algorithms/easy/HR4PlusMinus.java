@@ -1,4 +1,4 @@
-package com.hackerrank.easy.algorithms;
+package com.hackerrank.algorithms.easy;
 
 import java.text.DecimalFormat;
 import java.text.NumberFormat;
