@@ -26,7 +26,7 @@ public class RepeatedStrings {
          * 4. 
          */
         for (int i = 0; i < numberOfIterations; i++) {
-            terms.add(i, );
+            //terms.add(i, );
         }
         return n;
     }
